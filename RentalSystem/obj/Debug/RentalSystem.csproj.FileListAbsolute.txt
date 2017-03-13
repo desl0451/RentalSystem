@@ -1,0 +1,8 @@
+D:\Work\RentalSystem\RentalSystem\obj\Debug\RentalSystem.csprojResolveAssemblyReference.cache
+D:\Work\RentalSystem\RentalSystem\obj\Debug\RentalSystem.Properties.Resources.resources
+D:\Work\RentalSystem\RentalSystem\obj\Debug\RentalSystem.csproj.GenerateResource.Cache
+D:\Work\RentalSystem\RentalSystem\bin\Debug\RentalSystem.exe
+D:\Work\RentalSystem\RentalSystem\bin\Debug\RentalSystem.pdb
+D:\Work\RentalSystem\RentalSystem\obj\Debug\RentalSystem.frmMain.resources
+D:\Work\RentalSystem\RentalSystem\obj\Debug\RentalSystem.exe
+D:\Work\RentalSystem\RentalSystem\obj\Debug\RentalSystem.pdb
